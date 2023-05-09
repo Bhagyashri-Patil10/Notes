@@ -26,7 +26,7 @@
       </plugin><plugin>
       <groupId>org.testng</groupId>
         <artifactId>testng</artifactId>
-  		<version>6.14.3</version>
+  		<version>7.5.1</version>
         <configuration>
            <suiteXmlFiles>
           <suiteXmlFile>testing.xml</suiteXmlFile>
@@ -44,7 +44,7 @@
   	<dependency>
   		<groupId>org.testng</groupId>
   		<artifactId>testng</artifactId>
-  		<version>[6.14.3]</version>
+  		<version>[7.5.1]</version>
   	</dependency>
   </dependencies>
 </project>
